@@ -2,8 +2,6 @@
 Ecommerce web application that authorizes users with [JWT's](https://jwt.io/) through certain API routes. 
 <br/>
 <br/>
-Visit the project here &rarr; [Cube](https://cube-ecommerce.vercel.app/)
-<br/>
 ### Notice
 - To test the stripe checkout feature, enter these values for these specific parameters
   - Card number - `4242 4242 4242 4224`
